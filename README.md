@@ -1,3 +1,8 @@
-![Python](https://img.shields.io/badge/language-Python-blue.svg)  
-![License](https://img.shields.io/badge/license-BSD--2--Clause-blue.svg)  
-![Platform](https://img.shields.io/badge/platform-Linux-blue.svg)  
+[![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=blue)](https://docs.python.org/3.13/whatsnew/3.13.html)  
+[![MIT](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](https://opensource.org/license/mit)  
+[![Linux](https://img.shields.io/badge/Platform-Linux-yellow?style=for-the-badge&logo=linux&logoColor=blue)](https://www.linux.org/)  
+
+> ## Team members
+**Aryan Inguva** - ainguva@ncsu.edu <br />
+**Anurag Gorkar** - adgorkar@ncsu.edu <br />
+**Harsh Vora** - hkvora@ncsu.edu <br />
